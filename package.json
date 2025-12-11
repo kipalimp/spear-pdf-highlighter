@@ -44,10 +44,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexmagwe/react-pdf-highlighter-8.2.git"
+    "url": "git+https://github.com/kipalimp/spear-pdf-highlighter"
   },
   "bugs": {
-    "url": "https://github.com/alexmagwe/react-pdf-highlighter-8.2/issues"
+    "url": "https://github.com/kipalimp/spear-pdf-highlighter/issues"
   },
   "devDependencies": {
     "@types/lodash.debounce": "^4.0.9",
@@ -61,5 +61,5 @@
     "vite": "^5.3.3"
   },
   "main": "index.ts",
-  "homepage": "https://github.com/alexmagwe/react-pdf-highlighter-8.2#readme"
+  "homepage": "https://github.com/kipalimp/spear-pdf-highlighter#readme"
 }
